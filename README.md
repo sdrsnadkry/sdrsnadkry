@@ -7,7 +7,7 @@
 
 ---
 
-### Languages I'm Familiar With :
+### Tech stack i'm familiar with :
 <img align="left" title="React / React Native" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 <img align="left" title="Nest JS" alt="Nest JS" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" />
