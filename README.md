@@ -29,6 +29,18 @@
 
 ---
 
+
+### Stats:
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdrsnadkry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<br />
+<br />
+
+---
+
+
 ### Connect with me:
 
 [<img align="left" alt="sdrsnadkry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,15 +48,6 @@
 [<img align="left" alt="sdrsnadkry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sdrsnadkry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sdrsnadkry" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br />
-<br />
-
----
-
-<br/>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdrsnadkry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [Sudarshan Adhikari]: https://adhikarisudarshan.com.np
 [website]: https://adhikarisudarshan.com.np
