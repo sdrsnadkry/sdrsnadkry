@@ -46,15 +46,6 @@
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdrsnadkry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdrsnadkry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sdrsnadkry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdrsnadkry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdrsnadkry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 [Sudarshan Adhikari]: https://adhikarisudarshan.com.np
 [website]: https://adhikarisudarshan.com.np
 [twitter]: https://twitter.com/SdrsnAdkry
