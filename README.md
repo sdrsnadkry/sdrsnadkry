@@ -41,18 +41,6 @@
 <br />
 
 ---
-<br>
-
-<table>
-  <tr>
-      <p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=sudarshanadhikari&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true" alt="total-commit"/</p>
-  </tr>
-  <tr>
-      <p>&nbsp;<img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanadhikari&theme=gruvbox&hide_border=true" alt="github-streaks"/</p>
-  </tr>
-</tabl
-
-<p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabinpaudel&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="sudarshanadhikari-top-language"/</p>
   
 [Sudarshan Adhikari]: https://adhikarisudarshan.com.np
 [website]: https://adhikarisudarshan.com.np
