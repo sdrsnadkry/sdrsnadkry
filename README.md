@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/c1174683d66e0b11b76617e5ef33a6e101feb17ca81aef9df43852a26c8d36f3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a78347251466a666930694b33675331542e676966" alt="MasterHead" data-canonical-src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
+
 ### Hi there, I'm [Sudarshan Adhikari] 👋
 
 ## I'm a Computer Engineer who is passionate about learning new technologies !
