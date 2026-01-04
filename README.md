@@ -1,5 +1,3 @@
-<img src="https://camo.githubusercontent.com/ab7302a0087ca1d1a7f7d2f7797a7c60356b8a259bfdc572c92042d0adb749b6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a78347251466a666930694b33675331542e676966" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
-
 
 ### Hi there, I'm [Sudarshan Adhikari] 👋
 
